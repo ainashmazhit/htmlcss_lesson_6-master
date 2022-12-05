@@ -1,0 +1,10 @@
+img {width: 100px;
+}
+ 
+.block {
+    width: 200px;
+    height: 200px;
+    background-image: url(../background/pic.jpg);
+    background-position: left top;
+    background-size: cover;
+ }

@@ -1,0 +1,14 @@
+.block {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    float: left;
+    margin-right: 30px;
+    margin-bottom: 30px;
+}
+.block1 {
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    float: right;
+}
